@@ -1,5 +1,5 @@
 var TelegramBot=require('node-telegram-bot-api');
-var token='160715546:AAFA3EuTRCbuwu7mbjuXqAwmqz7Kva_OHFw';
+var token='Aqui_va_tu_toke';
 
 var bot= new TelegramBot(
 token, {
